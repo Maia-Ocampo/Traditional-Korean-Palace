@@ -1,22 +1,36 @@
 using UnityEngine;
 using UnityEngine.Audio;
 
+
 public class AudioSnapshotSwitcher : MonoBehaviour
 {
     public AudioMixer audioMixer; // Reference to the Audio Mixer
-    public AudioMixerSnapshot normalDay;
-    public AudioMixerSnapshot normalNight;
+    public AudioMixerSnapshot yard;
+    public AudioMixerSnapshot Inneryard;
+    public AudioMixerSnapshot Garden;
 
+
+
+ 
+    void OnTriggerEnter(Collider yardCollider)
+    {
+       
+    }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
-            SwitchToSnapshot(normalDay, 1.5f); // Transition time for Alpha1 is 1 second
+            SwitchToSnapshot(yard, 1.5f); 
+
         }
         else if (Input.GetKeyDown(KeyCode.Alpha2))
         {
-            SwitchToSnapshot(normalNight, 2.0f); // Transition time for Alpha2 is 2 seconds
+            SwitchToSnapshot(Inneryard, 1.5f); 
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            SwitchToSnapshot(Garden, 2.0f); 
         }
     }
 
