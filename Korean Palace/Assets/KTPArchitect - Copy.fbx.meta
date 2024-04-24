@@ -3,7 +3,187 @@ guid: bee4b9f37e4bb584e9c969d9bdcc8f7f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_BronzeBurner
+    second: {fileID: 2100000, guid: 7969b6e7680a4a240be446927d388244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanBrick_2
+    second: {fileID: 2100000, guid: a8b2452580122324d82ad8dfd3b0418a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanBrick_4
+    second: {fileID: 2100000, guid: 3b1f8a97efe7c6e40a49ead9adec38ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanFloor_1
+    second: {fileID: 2100000, guid: 4c6a71b2c3ee2a245a349455ba412c15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanFloor_2
+    second: {fileID: 2100000, guid: 17deec2fab7601947ba699a3be7d465f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanFloor_3
+    second: {fileID: 2100000, guid: cf50703c50fb1fa438748f1376479c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanPaper_1
+    second: {fileID: 2100000, guid: 1589c90e4be251247958d428017c06c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanPaper_2
+    second: {fileID: 2100000, guid: 2f908135fafec4d4e9a3f75a3f578b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanStone_1
+    second: {fileID: 2100000, guid: 8e218f59ef2831e46bca25bd82958d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanWood_1
+    second: {fileID: 2100000, guid: 48ccd36f8d14f1c40b18311249b5454b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanWood_2
+    second: {fileID: 2100000, guid: 0b23385aa2a3bed4587e62f932d38299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanWood_3
+    second: {fileID: 2100000, guid: 9e6931d88b09bed48baca05920e64beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanWood_4
+    second: {fileID: 2100000, guid: 0f287cb5a20816c418c8ca4c3d6903c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KoreanWood_5
+    second: {fileID: 2100000, guid: be2066692b0a2b649abdb6270146c0f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Koreantile_1
+    second: {fileID: 2100000, guid: fe3cbb1f223bccc41b1844ea7d26fa55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_M_Handrail_3-1
+    second: {fileID: 2100000, guid: 3b8e06c6f869d5743985ac6919c9683e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_M_Handrail_3-2
+    second: {fileID: 2100000, guid: 745cf60f3576f0b4998c439a6882ef95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Metal
+    second: {fileID: 2100000, guid: f17a64c18bd067047a07bf36c4dfc57f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_BrickConcrete
+    second: {fileID: 2100000, guid: 73c4bdefb62093f429c66903f71bee2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Buyeon_1
+    second: {fileID: 2100000, guid: 6055116b267d97c45894c42c4eccc045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Buyeon_2
+    second: {fileID: 2100000, guid: 6055116b267d97c45894c42c4eccc045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Ceiling_1
+    second: {fileID: 2100000, guid: 07ea7bcd9c0115744bce6e37dea86fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Dancheong_1
+    second: {fileID: 2100000, guid: a9515b62d8a9518479266742c9566860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Dancheong_2
+    second: {fileID: 2100000, guid: a9515b62d8a9518479266742c9566860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Decors_1
+    second: {fileID: 2100000, guid: 69c8c6ff6276c704f97f7ff1f91ad09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Decors_2
+    second: {fileID: 2100000, guid: 69c8c6ff6276c704f97f7ff1f91ad09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Decors_3
+    second: {fileID: 2100000, guid: 69c8c6ff6276c704f97f7ff1f91ad09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Decors_4
+    second: {fileID: 2100000, guid: 69c8c6ff6276c704f97f7ff1f91ad09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Green
+    second: {fileID: 2100000, guid: 248f4c920898a39489bba4f7a8a67ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Roof
+    second: {fileID: 2100000, guid: 139550aa575530141a1b2f9c0acf8ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_R_Woods_1
+    second: {fileID: 2100000, guid: f3f6cc51e0bc0df48beee2768f48e1a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_RoyalStair_1
+    second: {fileID: 2100000, guid: 84a3a3190b5b86f42be58bef57cadb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_W_Pink_1
+    second: {fileID: 2100000, guid: 6dac3f2eb677d754cbb58d3828756dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_W_Pink_2
+    second: {fileID: 2100000, guid: 02392be87ba6c8b4c844d08fa672760d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_W_Pink_3
+    second: {fileID: 2100000, guid: b871beddc4d44aa49a2a4f763b6e195b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_W_Pink_4
+    second: {fileID: 2100000, guid: 0b54cfcc327253f41a8d1712bd486157, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
